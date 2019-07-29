@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="RPG.CameraUI.CameraFollow" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAABBAAIgAAAAAAA=</HashCode>
+      <FileName>Assets\_CameraUI\CameraFollow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.CameraUI.CameraRaycaster" Collapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAIAQAACAAEAAEAACAAAACAAAAAAQAAABAAAAgA=</HashCode>
+      <FileName>Assets\_CameraUI\CameraRaycaster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dialog" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_CameraUI\Dialog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FV_BranchRotation" Collapsed="true">
+    <Position X="18.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKQAFwACAiwAQBgEAIYACGGBAYkAACMAAIIABGEAgBA=</HashCode>
+      <FileName>Assets\Random object\ForestVision\09 Scripts\FV_BranchRotation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FV_Wind" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAQAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Random object\ForestVision\09 Scripts\FV_Wind.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WaterGroup" Collapsed="true">
+    <Position X="13" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAAAgAAAAAAIAAAAAAgAAAAAAAAAgACAAA=</HashCode>
+      <FileName>Assets\Random object\SkythianCat\Glowing_Forest\Scripts\WaterGroup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Core.MainMusicChanger" Collapsed="true">
+    <Position X="16.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAEAAEACCAAAAAAAAAAAAAAABAAgIAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_CameraUI\MainMusicChanger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Core.SunChanger" Collapsed="true">
+    <Position X="7.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEBAAAACAAAAAAAAAAAQAAAEAAAJgAQAQQAIAAAAA=</HashCode>
+      <FileName>Assets\_CameraUI\SunChanger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Core.AudioTrigger" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAACCQAAAAAAAAAAAAAAAAAMIAgQAgACAACAAg=</HashCode>
+      <FileName>Assets\_Core\AudioTrigger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Core.MagicalRockFlying" Collapsed="true">
+    <Position X="14.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACABABBAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_Core\MagicalRockFlying.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Core.SpinMe" Collapsed="true">
+    <Position X="18.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAABAAAAAAAAoAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_Core\SpinMe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Characters.EnemyAI" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="RPG.Characters.EnemyAI.State" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\_Characters\Enemies\EnemyAI.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQMAAAAACAgAAIQAJAAAAAAAGAAAgAVAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\_Characters\Enemies\EnemyAI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Characters.FaceCamera" Collapsed="true">
+    <Position X="14.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_Characters\Enemies\FaceCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Characters.Companion" Collapsed="true">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAEAKCAEgABAAAQAAAFAAAAAAAAAAI=</HashCode>
+      <FileName>Assets\_Characters\Player\Companion\Companion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Characters.PlayerControl" Collapsed="true">
+    <Position X="11.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAIAICAQAAAQAiAAAAACAQAAEAAAAQAAgAAgAAE=</HashCode>
+      <FileName>Assets\_Characters\Player\PlayerControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Characters.DominantHand" Collapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_Characters\Scripts\DominantHand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Characters.HealthSystem" Collapsed="true">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQIQKAAACAAAACAEgAAAAAAAAAAEAAAABAIgQAAAAA=</HashCode>
+      <FileName>Assets\_Characters\Scripts\HealthSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Characters.Character" Collapsed="true">
+    <Position X="13" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BARKgAAAAMAACAAAAQIhEgAAEAAEoAABBAKiBAkAAGA=</HashCode>
+      <FileName>Assets\_Characters\Scripts\Character.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Characters.SpecialAbilities" Collapsed="true">
+    <Position X="14.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAQECAAACAAAJAAQAAABAAAkAICAAAAAAQAAgE=</HashCode>
+      <FileName>Assets\_Characters\Scripts\SpecialAbilities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Characters.WaypointContainer" Collapsed="true">
+    <Position X="18.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_Characters\Scripts\WaypointContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Characters.WeaponSystem" Collapsed="true">
+    <Position X="11.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BARIAAAAACAAEAACIAAAAAAAIgACAAAIQEAAMAAAARA=</HashCode>
+      <FileName>Assets\_Characters\Scripts\WeaponSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Characters.AbilityBehaviour" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAACICAAgAABAAAAAAQAAAAEAAAEAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\_Characters\Special Abilities\AbilityBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Characters.AbilityConfig">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIoAQAAAAABQAAAAAAAAAEAAAAEAAACAQAAAAAAEAA=</HashCode>
+      <FileName>Assets\_Characters\Special Abilities\AbilityConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Characters.AreaEffectBehaviour" Collapsed="true">
+    <Position X="0.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_Characters\Special Abilities\Area Effect\AreaEffectBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Characters.AreaEffectConfig" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAEAAAAAAAAgAAAAAggAAAA=</HashCode>
+      <FileName>Assets\_Characters\Special Abilities\Area Effect\AreaEffectConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Characters.PowerAttackBehaviour" Collapsed="true">
+    <Position X="3" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_Characters\Special Abilities\Power Attack\PowerAttackBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Characters.PowerAttackConfig">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_Characters\Special Abilities\Power Attack\PowerAttackConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Characters.SelfHealBehaviour" Collapsed="true">
+    <Position X="5.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAEAAABAAAAAAAgAAA=</HashCode>
+      <FileName>Assets\_Characters\Special Abilities\Self Heal\SelfHealBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Characters.SelfHealConfig" Collapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_Characters\Special Abilities\Self Heal\SelfHealConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Characters.WeaponConfig" Collapsed="true">
+    <Position X="7.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAEAABAAEAARAAAAAAAAAAQACAAAAAEAgAAIAEAAAAA=</HashCode>
+      <FileName>Assets\_Weapons\WeaponConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG.Characters.WeaponPickUpPoint" Collapsed="true">
+    <Position X="9.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAIAAgAAQAAAAEAAASAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_Weapons\WeaponPickUpPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityStandardAssets.Effects.AfterburnerPhysicsForce" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAoAAAAAAiIAAAAAAAAAAAAAIAAAAACAAAAgAAAACAA=</HashCode>
+      <FileName>Assets\_World Objects\Particles\ParticleSystems\Scripts\AfterburnerPhysicsForce.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityStandardAssets.Effects.ExplosionFireAndDebris" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAIABAEABAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_World Objects\Particles\ParticleSystems\Scripts\ExplosionFireAndDebris.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityStandardAssets.Effects.ExplosionPhysicsForce" Collapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_World Objects\Particles\ParticleSystems\Scripts\ExplosionPhysicsForce.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityStandardAssets.Effects.ExtinguishableParticleSystem" Collapsed="true">
+    <Position X="13" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAQAAAEAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_World Objects\Particles\ParticleSystems\Scripts\ExtinguishableParticleSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityStandardAssets.Effects.FireLight" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAEAAQAAAAQAEAAAAAAAAA=</HashCode>
+      <FileName>Assets\_World Objects\Particles\ParticleSystems\Scripts\FireLight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityStandardAssets.Effects.Hose" Collapsed="true">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAAAAUAAEAAAAAAAAAAABAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_World Objects\Particles\ParticleSystems\Scripts\Hose.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityStandardAssets.Effects.ParticleSystemMultiplier" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_World Objects\Particles\ParticleSystems\Scripts\ParticleSystemMultiplier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityStandardAssets.Effects.SmokeParticles" Collapsed="true">
+    <Position X="13" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_World Objects\Particles\ParticleSystems\Scripts\SmokeParticles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityStandardAssets.Effects.WaterHoseParticles" Collapsed="true">
+    <Position X="14.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAoAAAAAACAAAAAAAAAAAAAQgAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\_World Objects\Particles\ParticleSystems\Scripts\WaterHoseParticles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityStandardAssets.Water.Displace" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAACEA=</HashCode>
+      <FileName>Assets\_World Objects\Water\Scripts\Displace.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityStandardAssets.Water.GerstnerDisplace" Collapsed="true">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_World Objects\Water\Scripts\GerstnerDisplace.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityStandardAssets.Water.MeshContainer" Collapsed="true">
+    <Position X="18.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAABAAAAAAAAAAAAARAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_World Objects\Water\Scripts\MeshContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityStandardAssets.Water.PlanarReflection" Collapsed="true">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQgAAAAkDAAgAEAAAAEIAEASgMAgBAMAAAAABAACAA=</HashCode>
+      <FileName>Assets\_World Objects\Water\Scripts\PlanarReflection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityStandardAssets.Water.SpecularLighting" Collapsed="true">
+    <Position X="16.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAABAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_World Objects\Water\Scripts\SpecularLighting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityStandardAssets.Water.Water" Collapsed="true">
+    <Position X="9.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQkACAAARCAgAAAAgCAIAIAgAAIEAAIAAAEABEAAAQ=</HashCode>
+      <FileName>Assets\_World Objects\Water\Scripts\Water.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityStandardAssets.Water.WaterBase" Collapsed="true">
+    <Position X="11.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAIAAAAAAAAAAAAAAAEAQAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_World Objects\Water\Scripts\WaterBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityStandardAssets.Water.WaterTile" Collapsed="true">
+    <Position X="16.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAAAACAAAAAAAAAAAAAAICAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_World Objects\Water\Scripts\WaterTile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="UnityStandardAssets.Water.WaterQuality" Collapsed="true">
+    <Position X="7.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAgAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Assets\_World Objects\Water\Scripts\WaterBase.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
